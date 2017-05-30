@@ -1,5 +1,8 @@
-#include <stdio.h>
+//****** Find Magic Number using C program using Function******//
 
+
+#include <stdio.h>
+#include<conio.h>
 int sum_of_digits(int);
 int reverse_digits(int);
 
