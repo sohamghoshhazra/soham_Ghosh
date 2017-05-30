@@ -23,6 +23,7 @@ b=a%10;
 a=a/10;
 rev=rev*10+b;
 }
+//printf("Reverse of the sum=%d\n",rev);
 c=temp2*rev;
 if (c==temp1)
     printf("Given no is Magic No");
